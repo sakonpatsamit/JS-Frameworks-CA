@@ -93,7 +93,7 @@ export default function ProductDetails() {
           </div>
           <div className="flex justify-between items-center">
             <Link
-              to="/products"
+              to="/"
               className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
             >
               Go Back
