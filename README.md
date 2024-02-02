@@ -1,6 +1,6 @@
 # UseGoods
 
-![UseGoods] (public/usegoods.pngs)
+![UseGoods](public/usegoods.png)
 
 UseGoods is a e-commerce website with a functional shopping cart, various pages like spesific product page and checkout page. It also has a functional search bar.
 The eCommerce store utilizes an external API for data.
